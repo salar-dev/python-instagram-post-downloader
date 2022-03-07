@@ -1,3 +1,7 @@
+#Salar Brefki
+# Instagram > https://www.instagram.com/salarbrefki/
+# Facebook > https://www.facebook.com/salar.brefki/
+
 import requests
 import json
 from tkinter import filedialog
