@@ -14,7 +14,7 @@ querystring = {"url": postUrl}
 
 headers = {
     "x-rapidapi-host": "instagram-media-downloader.p.rapidapi.com",
-    "x-rapidapi-Key": "341fd61403msh923c5b09db48599p16e705jsndfaca83fb8b1" # Put Your API Key 
+    "x-rapidapi-Key": "*****************" # Put Your API Key 
     }
 
 response = requests.request("GET", url, headers=headers, params=querystring)
